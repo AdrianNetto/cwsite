@@ -158,7 +158,6 @@ header {
 .header-bottom-side-left button:hover {
     transition: .2s;
     transform: scale(1.1);
-    font-weight: bold;
 }
 
 .header-bottom-side-right {
